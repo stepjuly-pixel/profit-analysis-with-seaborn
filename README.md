@@ -51,7 +51,7 @@ The dataset contains 51,290 records of sales with the following key columns:
 
 - The profit distribution shape is similar across both channels, but Web dominates in absolute numbers.
 
-<img src="images/profit_by_device.png" width="700" />
+<img src="images/profit_by_device.png" width="550" />
 
 ### Profit Trends Over Time
 
